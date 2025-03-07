@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Zworis
-- 👀 I’m interested in your mom
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on sucking your mom
-- 📫 How to reach me ...
+- 👀 I’m interested in developing my skills toward cybersecurity
+- 💞️ I’m looking to collaborate
 
 <!---
 Zworis/Zworis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
